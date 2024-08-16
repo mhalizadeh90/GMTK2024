@@ -3,6 +3,9 @@
 ### Overview
 This repository is for the development of our GMTK 2024 Game Jam.
 
+### Theme: Built to Scale
+Create a game that revolves around size and dimension. Explore the extremes: tiny, microscopic worlds or colossal, cosmic landscapes. Experiment with scaling objects up or down like growth, shrinkage, and the interplay between big and small.
+
 ### Team Members
 - **Programmer:** Mohammad Alizadeh
 - **Game Artist:** Nastaran Namei
