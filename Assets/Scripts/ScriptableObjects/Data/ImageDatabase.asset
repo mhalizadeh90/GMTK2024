@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd885c8906824568ba638b0ad5b3a3e0, type: 3}
+  m_Name: ImageDatabase
+  m_EditorClassIdentifier: 
+  itemDatas:
+  - item: 0
+    itemStatus: 2
+    hintToFind: Can you help her find out her family name?
+    itemDescription: Her last name is Adrien
+    fullImage: {fileID: 3286163911610860551, guid: abd64f1d7e064b64da63051c72049448, type: 3}
+    silhouetteImage: {fileID: 3286163911610860551, guid: abd64f1d7e064b64da63051c72049448, type: 3}
+  - item: 2
+    itemStatus: 1
+    hintToFind: To be continued...
+    itemDescription: this is Key
+    fullImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    silhouetteImage: {fileID: 0}
